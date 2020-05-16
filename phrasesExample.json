@@ -1,0 +1,153 @@
+[
+    {
+        "phrase": "화장실 어디에요?",
+        "formal": true,
+        "answers": [
+            "Where is toilet?",
+            "where is the toilet",
+            "where is the dunny?"
+        ],
+        "log": []
+    },
+    {
+        "phrase": "이 돼지고기 정말 맛있어요",
+        "formal": true,
+        "answers": [
+            "This pork is really good",
+            "the pork is really good"
+        ],
+        "log": []
+    },
+    {
+        "phrase": "얼마에요?",
+        "formal": true,
+        "answers": [
+            "How much is this?",
+            "how much is it",
+            "how much"
+        ],
+        "log": []
+    },
+    {
+        "phrase": "나 방금 방구 꼈어요",
+        "formal": true,
+        "answers": [
+            "I just farted",
+            "I farted"
+        ],
+        "log": []
+    },
+    {
+        "phrase": "방구 꼈어",
+        "formal": false,
+        "answers": [
+            "I just farted",
+            "I farted"
+        ],
+        "log": []
+    },
+    {
+        "phrase": "저는 운전을 못해요.",
+        "formal": true,
+        "answers": [
+            "i can't drive"
+        ],
+        "log": []
+    },
+    {
+        "phrase": "돈 없어요.",
+        "formal": true,
+        "answers": [
+            "i don't have money"
+        ],
+        "log": []
+    },
+    {
+        "phrase": "이에 뭐가 꼈어요",
+        "formal": true,
+        "answers": [
+            "There is something in teeth.",
+            "there is something in my teeth",
+            "somthings in my teeth"
+        ],
+        "log": []
+    },
+    {
+        "phrase": "오늘 날씨 어때요?",
+        "formal": true,
+        "answers": [
+            "how's the weather today?"
+        ],
+        "log": []
+    },
+    {
+        "phrase": "물 주세요",
+        "formal": true,
+        "answers": [
+            "Give me water please",
+            "can i have water",
+            "give me water"
+        ],
+        "log": []
+    },
+    {
+        "phrase": "저는 로마 역사를 좋아해요 (싫어해요).",
+        "formal": true,
+        "answers": [
+            "I like Rome history.",
+            "I like Roman history."
+        ],
+        "log": []
+    },
+    {
+        "phrase": "안녕하세요",
+        "formal": true,
+        "answers": [
+            "Hello",
+            "hi",
+            "g'day",
+            "hey"
+        ],
+        "log": []
+    },
+    {
+        "phrase": "너 야만인이야.",
+        "formal": true,
+        "answers": [
+            "your a barbarian"
+        ],
+        "log": []
+    },
+    {
+        "phrase": "보고싶어요",
+        "formal": true,
+        "answers": [
+            "miss you."
+        ],
+        "log": []
+    },
+    {
+        "phrase": "내일 날씨 좋아요.",
+        "formal": true,
+        "answers": [
+            "Tomorrow's weather is good."
+        ],
+        "log": []
+    },
+    {
+        "phrase": "한국은 최고의 나라에요",
+        "formal": false,
+        "answers": [
+            "Korea is the best country"
+        ],
+        "log": []
+    },
+    {
+        "phrase": "모르겠어요.",
+        "formal": true,
+        "answers": [
+            " i don't know"
+        ],
+        "log": []
+	}
+]
